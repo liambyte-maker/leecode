@@ -1,0 +1,17 @@
+# LeetCode 
+
+Solutions and notes in Python.
+
+## Topics
+- 数组
+- 链表
+- 哈希表
+- 字符串
+- 双指针
+- 栈与队列
+- 二叉树
+- 回溯算法
+- 贪心算法
+- 动态规划
+- 单调栈
+- 图论
